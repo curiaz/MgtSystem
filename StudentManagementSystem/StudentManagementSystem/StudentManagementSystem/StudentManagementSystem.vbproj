@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+    <ImportedNamespaces>MySql.Data.MySqlClient=False,MySql.Data.MySqlClient.Authentication=False,MySql.Data.MySqlClient.Interceptors=False,MySql.Data.MySqlClient.Replication=False,MySql.Data.MySqlClient.X.XDevAPI.Common=False,MySql.Data.Types=False,Mysqlx.Protocol=False,Mysqlx.Serialization=False,Mysqlx.XDevAPI=False,Mysqlx.XDevAPI.Common=False,Mysqlx.XDevAPI.CRUD=False,Mysqlx.XDevAPI.Relational=False,StudentManagementSystem.My.Resources=False,System.Data=False,System.Drawing=False,System.Windows.Forms=False,Microsoft.VisualBasic=True,System=True,System.Collections=True,System.Collections.Generic=True,System.Diagnostics=True,System.Linq=True,System.Xml.Linq=True,System.Threading.Tasks=True,StudentManagementSystem=True</ImportedNamespaces>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Import Include="MySql.Data.MySqlClient" />
+    <Import Include="MySql.Data.MySqlClient.Authentication" />
+    <Import Include="MySql.Data.MySqlClient.Interceptors" />
+    <Import Include="MySql.Data.MySqlClient.Replication" />
+    <Import Include="MySql.Data.MySqlClient.X.XDevAPI.Common" />
+    <Import Include="MySql.Data.Types" />
+    <Import Include="Mysqlx.Protocol" />
+    <Import Include="Mysqlx.Serialization" />
+    <Import Include="Mysqlx.XDevAPI" />
+    <Import Include="Mysqlx.XDevAPI.Common" />
+    <Import Include="Mysqlx.XDevAPI.CRUD" />
+    <Import Include="Mysqlx.XDevAPI.Relational" />
+    <Import Include="StudentManagementSystem.My.Resources" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\..\.nuget\packages\mysql.data\8.2.0\lib\net8.0\MySql.Data.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="My Project\Resources.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

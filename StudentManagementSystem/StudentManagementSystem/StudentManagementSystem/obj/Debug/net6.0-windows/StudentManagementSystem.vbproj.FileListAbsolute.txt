@@ -1,0 +1,84 @@
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Form1.resources
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Resources.resources
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.vb
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.ADMIN.resources
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Home.resources
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Professor.resources
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.studrecord.resources
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.StudentEntry.resources
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.CopyComplete
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.exe
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.deps.json
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.runtimeconfig.json
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.AssemblyReference.cache
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.ADMIN.resources
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Form1.resources
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Home.resources
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Resources.resources
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.Professor.resources
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.StudentEntry.resources
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.studrecord.resources
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.AssemblyInfo.vb
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.vbproj.CopyComplete
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\refint\StudentManagementSystem.dll
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.pdb
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\Jeremiah Curias\Source\Repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\ref\StudentManagementSystem.dll
+C:\Users\Jeremiah Curias\source\repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.studacc.resources
+C:\Users\Jeremiah Curias\source\repos\StudentManagementSystem\StudentManagementSystem\StudentManagementSystem\obj\Debug\net6.0-windows\StudentManagementSystem.studpass.resources
